@@ -1,0 +1,48 @@
+---
+title: "Resume"
+---
+::: {.page-wrap}
+
+## Professional Summary
+
+Marketing student pursuing a bachelor's degree in marketing with a concentration in promotional marketing. Interested in consumer behavior, advertising, audience insights, and campaign strategy.
+
+## Education
+
+| Degree | Year | College / Department | Institution |
+|---|---:|---|---|
+| Bachelor's Degree in Marketing | 2024 – Present | College of Business | Cal Poly Pomona |
+| Associate's Degree in Communications | 2022 – 2024 | Communications Department | Fullerton College |
+
+## Skills
+
+- Content Creation
+- Event Planning and Organizing
+- Business communication
+- Data visualization
+- Quarto
+- GitHub
+- Google Analytics
+
+## Marketing Experience
+
+### Social Media Coordinator, Cesar Chavez Academy Choir  
+*2026 – Present*
+
+- Managed and created content for the choir’s social media platforms to increase awareness and engagement.
+- Planned and promoted choir events, helping improve attendance and community involvement.
+- Collaborated with staff and students to highlight performances and showcase choir activities online.
+
+### Content Creator (Independent)  
+*2021 – Present*
+
+- Create and manage original digital content across social media platforms.
+- Develop content focused on trends, audience engagement, and visual storytelling.
+- Analyze engagement and adjust content strategies to improve reach and interaction.
+
+## Contact
+
+Email: savannahkani@gmail.com  
+
+
+:::

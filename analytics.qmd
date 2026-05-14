@@ -1,0 +1,31 @@
+---
+title: "Analytics"
+editor: visual
+---
+## Overview
+
+This page explains how website analytics can be used to understand visitor behavior and improve a professional portfolio website. The main tools used for this process include Google Analytics, Google Search Console, Google BigQuery, and Looker Studio.
+
+## Google Analytics
+
+Google Analytics can track how visitors interact with the website. Important metrics include page views, users, engagement time, traffic sources, and conversions. These metrics help show which pages attract the most attention and how visitors move through the website.
+
+## Google Search Console
+
+Google Search Console helps track how the website appears in Google Search. It can show search impressions, clicks, average position, and search queries. This information is useful for improving search engine optimization and making the website easier to find online.
+
+## BigQuery
+
+Google BigQuery can be used to store and analyze Google Analytics data. This allows more advanced analysis using SQL. With BigQuery, website traffic data can be cleaned, filtered, and summarized for deeper insights.
+
+## Looker Studio
+
+Looker Studio can be used to create dashboards that visualize website performance. Example dashboard metrics include total users, page views, traffic source, most visited pages, and conversion activity.
+
+## Insights
+
+Based on these analytics tools, I would evaluate which pages receive the most traffic, how visitors find the website, and whether visitors are engaging with the portfolio content. These insights could help improve the website design, project descriptions, and search visibility.
+
+## Conclusion
+
+Using analytics tools can help turn website activity into useful business insights. For a professional portfolio website, this information can support better content decisions, stronger personal branding, and improved visibility to potential employers.

@@ -1,0 +1,64 @@
+---
+title: "Home"
+listing: false
+---
+
+::::: hero
+::: hero-text
+[Marketing · Promotional Marketing · Consumer Behavior]{.eyebrow}
+
+# Savannah Ventic
+
+I am pursuing a degree in marketing with a concentration in promotional marketing. I am interested in a career focused on consumer behavior or advertising, where I can use creativity, strategy, and audience insights to help brands connect with people.
+
+[View My Work](projects.qmd){.btn .btn-primary} [Resume](resume.qmd){.btn .btn-outline}
+:::
+
+::: hero-card
+## ![](images/clipboard-628559299.jpeg)
+
+I enjoy turning information into clear, useful insights that support stronger marketing strategies and better business decisions.
+
+-   Marketing analytics
+-   Consumer behavior
+-   Advertising strategy
+-   Promotional campaigns
+-   Data visualization
+:::
+:::::
+
+::::::: section
+## Featured Work
+
+:::::: cards
+::: card
+### Marketing Projects
+
+Explore projects focused on data analysis, consumer insights, and data-driven decision making using tools like R and Quarto.
+
+[View Projects](projects.qmd)
+:::
+
+::: card
+### Dashboard
+
+A space to showcase dashboards, visualizations, and performance metrics.
+
+[View Dashboard](dashboard.qmd)
+:::
+
+::: card
+### Presentation
+
+A breif Quarto RevealJS presentation highlighting the importance of understand consumer behavior.
+
+[View Presentation](presentation.qmd)
+:::
+::::::
+:::::::
+
+::: {.section .soft}
+## About This Portfolio
+
+This website is designed for future employers, instructors, and professional connections. It highlights my education, skills, projects, and interest in marketing roles related to digital marketing, consumer behavior, and advertising.
+:::

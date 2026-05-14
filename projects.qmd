@@ -1,0 +1,68 @@
+---
+title: "Projects"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+::::::: page-wrap
+This page highlights academic and professional projects related to
+marketing, analytics, dashboards, presentations, and data-driven
+decision-making.
+
+:::::: project-grid
+::: project-card
+## Introduction to Data Science in R (Reflection Essay)
+
+**Focus:** Data science concepts and technical reflection\
+**Tools:** R, RStudio, Quarto
+
+In this project, I wrote a reflection essay on my experience learning
+the basics of data science using R, Quarto, and RStudio. The assignment
+helped me understand how these tools work together to analyze data and
+present information in a clear and organized way. I also learned how
+Quarto can combine code, text, and output into one professional
+document, which is useful for communicating insights.
+
+**Skills shown:** R basics, Quarto document creation, data analysis
+concepts, technical writing [Open full reflection
+essay](data-science-reflection/.html){.btn}
+:::
+
+::: project-card
+## Research Participation Effectiveness Proposal
+
+**Focus:** Survey research and data analysis\
+**Tools:** Quarto, survey questionnaire, research design
+
+This project focused on developing research questions and identifying
+independent and dependent variables based on an existing survey about
+students' research participation experience. In addition, I worked with
+my group to organize and analyze the data given to us. This project
+helped me better understand how survey responses can be used to draw
+meaningful insights.
+
+**Skills shown:** Research design, survey interpretation, data
+wrangling, data visualization, Quarto presentation [Open full group
+project](projects/Group-1-Proposal.html){.btn}
+:::
+
+::: project-card
+## Data Analysis in R (Application Project)
+
+**Focus:** Data analysis and visualization using R\
+**Tools:** R, RStudio, tidyverse, Quarto
+
+In this assignment, I applied data science concepts using R to solve a
+series of problems involving data manipulation, conditional logic, and
+visualization. I worked with real datasets to clean, organize, and
+analyze data, and created visualizations to communicate insights. The
+project also involved building reusable functions and using tools like
+the tidyverse to streamline analysis.
+
+**Skills shown:** R programming, data wrangling, data visualization,
+functional programming, Quarto presentation, problem-solving [Open full
+R application project](projects/r-application-project.html){.btn}
+:::
+::::::
+:::::::

@@ -1,0 +1,25 @@
+---
+title: "Portfolio Presentation"
+author: "Savannah Ventic"
+format: revealjs
+---
+
+## About Me
+
+- Marketing student
+- Promotional marketing concentration
+- Interested in consumer behavior and advertising
+
+## Featured Skills
+
+- Marketing strategy
+- Data visualization
+- Business communication
+- Quarto websites
+- GitHub
+
+## Featured Project
+
+Describe one project here.
+
+## Thank You

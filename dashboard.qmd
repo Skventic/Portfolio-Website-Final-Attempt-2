@@ -1,0 +1,52 @@
+---
+title: "Dashboard"
+---
+
+::: page-wrap
+## Data Visualization
+
+This dashboard presents an example of a data visualization created in R using student-teacher ratio data from my ***M11-2 Data Analysis Project.***
+
+## Student-Teacher Ratio Dashboard
+
+The chart below compares countries with the highest and lowest student-teacher ratios. This helps show differences in education systems and class-size patterns across countries.
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(tidyverse)
+
+student_ratio <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-05-07/student_teacher_ratio.csv")
+
+student_ratio |>
+  filter(year == 2012,
+         indicator == "Lower Secondary Education") |>
+  select(country, student_ratio) |>
+  drop_na() |>
+  arrange(student_ratio) |>
+  slice(c(1:10, (n() - 9):n())) |>
+  mutate(country = reorder(country, student_ratio)) |>
+  ggplot(aes(x = country, y = student_ratio)) +
+  geom_col() +
+  coord_flip() +
+  labs(
+    title = "Top and Bottom Student-Teacher Ratios",
+    subtitle = "Lower Secondary Education, 2012",
+    x = "Country",
+    y = "Student-Teacher Ratio"
+  )
+
+```
+
+## Key Takeaways:
+
+-   Countries with higher student-teacher ratios may have larger class sizes.
+-   Countries with lower ratios may have more individualized student attention.
+-   Data visualization makes it easier to compare education patterns across countries.
+
+## Tools and Approach
+
+R and the tidyverse were used to clean and organize the dataset, allowing for easier analysis. Quarto was used to present the results and visualization in a clear and structured format.
+:::

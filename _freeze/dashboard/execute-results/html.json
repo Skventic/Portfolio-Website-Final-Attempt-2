@@ -1,0 +1,17 @@
+{
+  "hash": "fa4bcf6f421c174049f71f47b05bc249",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Dashboard\"\n---\n\n::: page-wrap\n## Data Visualization\n\nThis dashboard presents an example of a data visualization created in R using student-teacher ratio data from my ***M11-2 Data Analysis Project.***\n\n## Student-Teacher Ratio Dashboard\n\nThe chart below compares countries with the highest and lowest student-teacher ratios. This helps show differences in education systems and class-size patterns across countries.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](dashboard_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n## Key Takeaways:\n\n-   Countries with higher student-teacher ratios may have larger class sizes.\n-   Countries with lower ratios may have more individualized student attention.\n-   Data visualization makes it easier to compare education patterns across countries.\n\n## Tools and Approach\n\nR and the tidyverse were used to clean and organize the dataset, allowing for easier analysis. Quarto was used to present the results and visualization in a clear and structured format.\n:::\n",
+    "supporting": [
+      "dashboard_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

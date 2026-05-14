@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Savannah Ventic"
+  site-url: "https://yourusername.github.io/portfolio"
+  description: "Savannah Ventic's professional portfolio in marketing, promotional marketing, consumer behavior, and advertising."
+  navbar:
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Dashboard"
+        href: dashboard.qmd
+      - text: "Presentation"
+        href: presentation.qmd
+      - text: "Analytics"
+        href: analytics.qmd 
+      - text: "Resume"
+        href: resume.qmd
+  page-footer:
+    center: "© 2026 Savannah Ventic · Built with Quarto"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    embed-resources: false
+    code-link: false
+    code-fold: true
+execute:
+  freeze: auto
