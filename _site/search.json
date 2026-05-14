@@ -1,0 +1,401 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Marketing · Promotional Marketing · Consumer Behavior\n\n\nI am pursuing a degree in marketing with a concentration in promotional marketing. I am interested in a career focused on consumer behavior or advertising, where I can use creativity, strategy, and audience insights to help brands connect with people.\nView My Work Resume\n\n\n\n\nI enjoy turning information into clear, useful insights that support stronger marketing strategies and better business decisions.\n\nMarketing analytics\nConsumer behavior\nAdvertising strategy\nPromotional campaigns\nData visualization"
+  },
+  {
+    "objectID": "index.html#portfolio-snapshot",
+    "href": "index.html#portfolio-snapshot",
+    "title": "Home",
+    "section": "",
+    "text": "I enjoy turning information into clear, useful insights that support stronger marketing strategies and better business decisions.\n\nMarketing analytics\nConsumer behavior\nAdvertising strategy\nPromotional campaigns\nData visualization"
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Home",
+    "section": "Featured Work",
+    "text": "Featured Work\n\n\nMarketing Projects\nExplore projects focused on data analysis, consumer insights, and data-driven decision making using tools like R and Quarto.\nView Projects\n\n\nDashboard\nA space to showcase dashboards, visualizations, and performance metrics.\nView Dashboard\n\n\nPresentation\nA breif Quarto RevealJS presentation highlighting the importance of understand consumer behavior.\nView Presentation"
+  },
+  {
+    "objectID": "index.html#about-this-portfolio",
+    "href": "index.html#about-this-portfolio",
+    "title": "Home",
+    "section": "About This Portfolio",
+    "text": "About This Portfolio\nThis website is designed for future employers, instructors, and professional connections. It highlights my education, skills, projects, and interest in marketing roles related to digital marketing, consumer behavior, and advertising."
+  },
+  {
+    "objectID": "presentation/slides.html",
+    "href": "presentation/slides.html",
+    "title": "Portfolio Presentation",
+    "section": "",
+    "text": "Marketing student\nPromotional marketing concentration\nInterested in consumer behavior and advertising"
+  },
+  {
+    "objectID": "presentation/slides.html#about-me",
+    "href": "presentation/slides.html#about-me",
+    "title": "Portfolio Presentation",
+    "section": "",
+    "text": "Marketing student\nPromotional marketing concentration\nInterested in consumer behavior and advertising"
+  },
+  {
+    "objectID": "presentation/slides.html#featured-skills",
+    "href": "presentation/slides.html#featured-skills",
+    "title": "Portfolio Presentation",
+    "section": "Featured Skills",
+    "text": "Featured Skills\n\nMarketing strategy\nData visualization\nBusiness communication\nQuarto websites\nGitHub"
+  },
+  {
+    "objectID": "presentation/slides.html#featured-project",
+    "href": "presentation/slides.html#featured-project",
+    "title": "Portfolio Presentation",
+    "section": "Featured Project",
+    "text": "Featured Project\nDescribe one project here."
+  },
+  {
+    "objectID": "presentation/slides.html#thank-you",
+    "href": "presentation/slides.html#thank-you",
+    "title": "Portfolio Presentation",
+    "section": "Thank You",
+    "text": "Thank You"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page highlights academic and professional projects related to marketing, analytics, dashboards, presentations, and data-driven decision-making.\n\n\n\nFocus: Data science concepts and technical reflection\nTools: R, RStudio, Quarto\nIn this project, I wrote a reflection essay on my experience learning the basics of data science using R, Quarto, and RStudio. The assignment helped me understand how these tools work together to analyze data and present information in a clear and organized way. I also learned how Quarto can combine code, text, and output into one professional document, which is useful for communicating insights.\nSkills shown: R basics, Quarto document creation, data analysis concepts, technical writing Open full reflection essay\n\n\n\nFocus: Survey research and data analysis\nTools: Quarto, survey questionnaire, research design\nThis project focused on developing research questions and identifying independent and dependent variables based on an existing survey about students’ research participation experience. In addition, I worked with my group to organize and analyze the data given to us. This project helped me better understand how survey responses can be used to draw meaningful insights.\nSkills shown: Research design, survey interpretation, data wrangling, data visualization, Quarto presentation Open full group project\n\n\n\nFocus: Data analysis and visualization using R\nTools: R, RStudio, tidyverse, Quarto\nIn this assignment, I applied data science concepts using R to solve a series of problems involving data manipulation, conditional logic, and visualization. I worked with real datasets to clean, organize, and analyze data, and created visualizations to communicate insights. The project also involved building reusable functions and using tools like the tidyverse to streamline analysis.\nSkills shown: R programming, data wrangling, data visualization, functional programming, Quarto presentation, problem-solving Open full R application project"
+  },
+  {
+    "objectID": "projects.html#bigquery-and-looker-studio-training",
+    "href": "projects.html#bigquery-and-looker-studio-training",
+    "title": "Projects",
+    "section": "",
+    "text": "Focus: Data analysis and dashboard reporting\nTools: BigQuery, Looker Studio, Google Cloud\nIn this project, I practiced using BigQuery to work with data and Looker Studio to build reports. This helped me understand how data can be organized, analyzed, and presented for business decision-making.\nSkills shown: SQL basics, data visualization, dashboard design, reporting"
+  },
+  {
+    "objectID": "projects.html#research-participation-effectiveness-proposal",
+    "href": "projects.html#research-participation-effectiveness-proposal",
+    "title": "Projects",
+    "section": "",
+    "text": "Focus: Survey research and data analysis\nTools: Quarto, survey questionnaire, research design\nThis project focused on developing research questions and identifying independent and dependent variables based on an existing survey about students’ research participation experience. In addition, I worked with my group to organize and analyze the data given to us. This project helped me better understand how survey responses can be used to draw meaningful insights.\nSkills shown: Research design, survey interpretation, data wrangling, data visualization, Quarto presentation Open full group project"
+  },
+  {
+    "objectID": "projects.html#marketing-analytics-project",
+    "href": "projects.html#marketing-analytics-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Focus: Marketing performance and consumer insights\nTools: R, Quarto, visualization tools\nUse this space to describe a marketing analytics project from class. Add the research goal, the data used, and the key insight from the project.\nSkills shown: Data analysis, marketing metrics, visual storytelling"
+  },
+  {
+    "objectID": "projects.html#add-more-projects",
+    "href": "projects.html#add-more-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "You can duplicate one of the project cards above and replace the title, tools, and description with your own work."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Marketing student pursuing a bachelor’s degree in marketing with a concentration in promotional marketing. Interested in consumer behavior, advertising, audience insights, and campaign strategy.\n\n\n\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nBachelor’s Degree in Marketing\n2024 – Present\nCollege of Business\nCal Poly Pomona\n\n\nAssociate’s Degree in Communications\n2022 – 2024\nCommunications Department\nFullerton College\n\n\n\n\n\n\n\nContent Creation\nEvent Planning and Organizing\nBusiness communication\nData visualization\nQuarto\nGitHub\nGoogle Analytics\n\n\n\n\n\n\n2026 – Present\n\nManaged and created content for the choir’s social media platforms to increase awareness and engagement.\nPlanned and promoted choir events, helping improve attendance and community involvement.\nCollaborated with staff and students to highlight performances and showcase choir activities online.\n\n\n\n\n2021 – Present\n\nCreate and manage original digital content across social media platforms.\nDevelop content focused on trends, audience engagement, and visual storytelling.\nAnalyze engagement and adjust content strategies to improve reach and interaction.\n\n\n\n\n\nEmail: savannahkani@gmail.com"
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Resume",
+    "section": "",
+    "text": "Marketing student pursuing a bachelor’s degree in marketing with a concentration in promotional marketing. Interested in consumer behavior, advertising, audience insights, and campaign strategy."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "Degree\nYear\nCollege / Department\nInstitution\n\n\n\n\nBachelor’s Degree in Marketing\n2024 – Present\nCollege of Business\nCal Poly Pomona\n\n\nAssociate’s Degree in Communications\n2022 – 2024\nCommunications Department\nFullerton College"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Content Creation\nEvent Planning and Organizing\nBusiness communication\nData visualization\nQuarto\nGitHub\nGoogle Analytics"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Start Date – End Date\n\nAdd responsibility or accomplishment here.\nAdd responsibility or accomplishment here.\nAdd responsibility or accomplishment here.\n\n\n\n\nStart Date – End Date\n\nAdd responsibility or accomplishment here.\nAdd responsibility or accomplishment here.\nAdd responsibility or accomplishment here."
+  },
+  {
+    "objectID": "resume.html#contact",
+    "href": "resume.html#contact",
+    "title": "Resume",
+    "section": "",
+    "text": "Email: savannahkani@gmail.com"
+  },
+  {
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "This page links to a RevealJS presentation made with Quarto.\nOpen Presentation\n\n\nUse this page to explain what your presentation covers. For example, you can summarize a marketing analytics project, dashboard walkthrough, or BigQuery and Looker Studio training experience."
+  },
+  {
+    "objectID": "presentation.html#presentation-summary",
+    "href": "presentation.html#presentation-summary",
+    "title": "Presentation",
+    "section": "",
+    "text": "Use this page to explain what your presentation covers. For example, you can summarize a marketing analytics project, dashboard walkthrough, or BigQuery and Looker Studio training experience."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am open to networking, internship opportunities, and marketing-related professional experiences.\n\n\n\nEmail: savannahkani@gmail.com\nLinkedIn: https://www.linkedin.com/in/your-profile\nGitHub: https://github.com/yourusername"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: savannahkani@gmail.com\nLinkedIn: https://www.linkedin.com/in/your-profile\nGitHub: https://github.com/yourusername"
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This dashboard presents an example of a data visualization created in R using student-teacher ratio data from my M11-2 Data Analysis Project.\n\n\n\nThe chart below compares countries with the highest and lowest student-teacher ratios. This helps show differences in education systems and class-size patterns across countries.\n\n\n\n\n\n\n\n\n\n\n\n\n\nCountries with higher student-teacher ratios may have larger class sizes.\nCountries with lower ratios may have more individualized student attention.\nData visualization makes it easier to compare education patterns across countries.\n\n\n\n\nR and the tidyverse were used to clean and organize the dataset, allowing for easier analysis. Quarto was used to present the results and visualization in a clear and structured format."
+  },
+  {
+    "objectID": "dashboard.html#dashboard-overview",
+    "href": "dashboard.html#dashboard-overview",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This dashboard is designed to summarize important metrics and present them in a clear, visual format. Dashboards help viewers quickly understand trends, patterns, and performance."
+  },
+  {
+    "objectID": "dashboard.html#add-your-dashboard-screenshot",
+    "href": "dashboard.html#add-your-dashboard-screenshot",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Save your screenshot in the project folder, then replace the file name below.\n![](images/dashboard-screenshot.png)"
+  },
+  {
+    "objectID": "dashboard.html#key-takeaways",
+    "href": "dashboard.html#key-takeaways",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Countries with higher student-teacher ratios may have larger class sizes.\nCountries with lower ratios may have more individualized student attention.\nData visualization makes it easier to compare education patterns across countries."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am pursuing a bachelor’s degree in marketing at Cal Poly Pomona with a concentration in promotional marketing. I previously earned an associate’s degree in communications from Fullerton College in 2024.\nMy professional interests include consumer behavior, advertising, brand communication, and marketing strategy. I enjoy learning how people make decisions and how brands can communicate in ways that feel clear, useful, and meaningful.\n\n\n\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nBachelor’s Degree in Marketing\n2024 – Present\nCollege of Business\nCal Poly Pomona\n\n\nAssociate’s Degree in Communications\n2022 – 2024\nCommunications Department\nFullerton College\n\n\n\n\n\n\n\nMarketing Strategy Promotional Marketing Consumer Behavior Advertising Business Communication Quarto GitHub Looker Studio Google Analytics\n\n\n\n\nMy goal is to work in a marketing role where I can combine creativity, research, and strategy. I am especially interested in opportunities related to consumer behavior, advertising, campaign planning, and audience insights."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "Degree\nYear\nCollege / Department\nInstitution\n\n\n\n\nBachelor’s Degree in Marketing\n2024 – Present\nCollege of Business\nCal Poly Pomona\n\n\nAssociate’s Degree in Communications\n2022 – 2024\nCommunications Department\nFullerton College"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "",
+    "text": "Marketing Strategy Promotional Marketing Consumer Behavior Advertising Business Communication Quarto GitHub Looker Studio Google Analytics"
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About",
+    "section": "",
+    "text": "My goal is to work in a marketing role where I can combine creativity, research, and strategy. I am especially interested in opportunities related to consumer behavior, advertising, campaign planning, and audience insights."
+  },
+  {
+    "objectID": "projects.html#introduction-to-data-science-in-r-reflection-essay",
+    "href": "projects.html#introduction-to-data-science-in-r-reflection-essay",
+    "title": "Projects",
+    "section": "",
+    "text": "Focus: Data science concepts and technical reflection\nTools: R, RStudio, Quarto\nIn this project, I wrote a reflection essay on my experience learning the basics of data science using R, Quarto, and RStudio. The assignment helped me understand how these tools work together to analyze data and present information in a clear and organized way. I also learned how Quarto can combine code, text, and output into one professional document, which is useful for communicating insights.\nSkills shown: R basics, Quarto document creation, data analysis concepts, technical writing Open full reflection essay"
+  },
+  {
+    "objectID": "projects.html#data-analysis-in-r-application-project",
+    "href": "projects.html#data-analysis-in-r-application-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Focus: Data analysis and visualization using R\nTools: R, RStudio, tidyverse, Quarto\nIn this assignment, I applied data science concepts using R to solve a series of problems involving data manipulation, conditional logic, and visualization. I worked with real datasets to clean, organize, and analyze data, and created visualizations to communicate insights. The project also involved building reusable functions and using tools like the tidyverse to streamline analysis.\nSkills shown: R programming, data wrangling, data visualization, functional programming, Quarto presentation, problem-solving Open full R application project"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Home",
+    "section": "",
+    "text": "I enjoy turning information into clear, useful insights that support stronger marketing strategies and better business decisions.\n\nMarketing analytics\nConsumer behavior\nAdvertising strategy\nPromotional campaigns\nData visualization"
+  },
+  {
+    "objectID": "resume.html#marketing-experience",
+    "href": "resume.html#marketing-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "2026 – Present\n\nManaged and created content for the choir’s social media platforms to increase awareness and engagement.\nPlanned and promoted choir events, helping improve attendance and community involvement.\nCollaborated with staff and students to highlight performances and showcase choir activities online.\n\n\n\n\n2021 – Present\n\nCreate and manage original digital content across social media platforms.\nDevelop content focused on trends, audience engagement, and visual storytelling.\nAnalyze engagement and adjust content strategies to improve reach and interaction."
+  },
+  {
+    "objectID": "contact.html#where-to-find-me",
+    "href": "contact.html#where-to-find-me",
+    "title": "Contact",
+    "section": "",
+    "text": "I am open to networking, internship opportunities, and marketing-related professional experiences.\n\n\n\nEmail: savannahkani@gmail.com\nLinkedIn: https://www.linkedin.com/in/your-profile\nGitHub: https://github.com/yourusername"
+  },
+  {
+    "objectID": "presentation.html#consumer-behavior-and-advertising-strategy",
+    "href": "presentation.html#consumer-behavior-and-advertising-strategy",
+    "title": "Consumer Behavior and Advertising Strategy",
+    "section": "Consumer Behavior and Advertising Strategy",
+    "text": "Consumer Behavior and Advertising Strategy\nSavannah Ventic"
+  },
+  {
+    "objectID": "presentation.html#why-consumer-behavior-matters",
+    "href": "presentation.html#why-consumer-behavior-matters",
+    "title": "Consumer Behavior and Advertising Strategy",
+    "section": "Why Consumer Behavior Matters",
+    "text": "Why Consumer Behavior Matters\nConsumer behavior helps marketers understand why people buy, what influences them, and how they respond to advertising."
+  },
+  {
+    "objectID": "presentation.html#key-factors",
+    "href": "presentation.html#key-factors",
+    "title": "Consumer Behavior and Advertising Strategy",
+    "section": "Key Factors",
+    "text": "Key Factors\n\nMotivation\nPerception\nSocial influence\nBrand attitudes\nOnline behavior"
+  },
+  {
+    "objectID": "presentation.html#advertising-strategy",
+    "href": "presentation.html#advertising-strategy",
+    "title": "Consumer Behavior and Advertising Strategy",
+    "section": "Advertising Strategy",
+    "text": "Advertising Strategy\nEffective advertising uses consumer insights to create messages that connect with the right audience."
+  },
+  {
+    "objectID": "presentation.html#example",
+    "href": "presentation.html#example",
+    "title": "Consumer Behavior and Advertising Strategy",
+    "section": "Example",
+    "text": "Example\nA brand targeting Gen Z consumers may use social media trends, influencer partnerships, and short-form video to increase engagement."
+  },
+  {
+    "objectID": "presentation.html#career-connection",
+    "href": "presentation.html#career-connection",
+    "title": "Consumer Behavior and Advertising Strategy",
+    "section": "Career Connection",
+    "text": "Career Connection\nUnderstanding consumer behavior can help me prepare for roles in advertising, promotional marketing, and marketing strategy."
+  },
+  {
+    "objectID": "presentation.html#conclusion",
+    "href": "presentation.html#conclusion",
+    "title": "Consumer Behavior and Advertising Strategy",
+    "section": "Conclusion",
+    "text": "Conclusion\nConsumer behavior is important because it helps marketers create campaigns that are more relevant, persuasive, and effective."
+  },
+  {
+    "objectID": "about.html#all-about-me",
+    "href": "about.html#all-about-me",
+    "title": "About",
+    "section": "",
+    "text": "I am pursuing a bachelor’s degree in marketing at Cal Poly Pomona with a concentration in promotional marketing. I previously earned an associate’s degree in communications from Fullerton College in 2024.\nMy professional interests include consumer behavior, advertising, brand communication, and marketing strategy. I enjoy learning how people make decisions and how brands can communicate in ways that feel clear, useful, and meaningful."
+  },
+  {
+    "objectID": "analytics.html",
+    "href": "analytics.html",
+    "title": "Analytics",
+    "section": "",
+    "text": "This page explains how website analytics can be used to understand visitor behavior and improve a professional portfolio website. The main tools used for this process include Google Analytics, Google Search Console, Google BigQuery, and Looker Studio."
+  },
+  {
+    "objectID": "analytics.html#overview",
+    "href": "analytics.html#overview",
+    "title": "Analytics",
+    "section": "",
+    "text": "This page explains how website analytics can be used to understand visitor behavior and improve a professional portfolio website. The main tools used for this process include Google Analytics, Google Search Console, Google BigQuery, and Looker Studio."
+  },
+  {
+    "objectID": "analytics.html#google-analytics",
+    "href": "analytics.html#google-analytics",
+    "title": "Analytics",
+    "section": "Google Analytics",
+    "text": "Google Analytics\nGoogle Analytics can track how visitors interact with the website. Important metrics include page views, users, engagement time, traffic sources, and conversions. These metrics help show which pages attract the most attention and how visitors move through the website."
+  },
+  {
+    "objectID": "analytics.html#google-search-console",
+    "href": "analytics.html#google-search-console",
+    "title": "Analytics",
+    "section": "Google Search Console",
+    "text": "Google Search Console\nGoogle Search Console helps track how the website appears in Google Search. It can show search impressions, clicks, average position, and search queries. This information is useful for improving search engine optimization and making the website easier to find online."
+  },
+  {
+    "objectID": "analytics.html#bigquery",
+    "href": "analytics.html#bigquery",
+    "title": "Analytics",
+    "section": "BigQuery",
+    "text": "BigQuery\nGoogle BigQuery can be used to store and analyze Google Analytics data. This allows more advanced analysis using SQL. With BigQuery, website traffic data can be cleaned, filtered, and summarized for deeper insights."
+  },
+  {
+    "objectID": "analytics.html#looker-studio",
+    "href": "analytics.html#looker-studio",
+    "title": "Analytics",
+    "section": "Looker Studio",
+    "text": "Looker Studio\nLooker Studio can be used to create dashboards that visualize website performance. Example dashboard metrics include total users, page views, traffic source, most visited pages, and conversion activity."
+  },
+  {
+    "objectID": "analytics.html#insights",
+    "href": "analytics.html#insights",
+    "title": "Analytics",
+    "section": "Insights",
+    "text": "Insights\nBased on these analytics tools, I would evaluate which pages receive the most traffic, how visitors find the website, and whether visitors are engaging with the portfolio content. These insights could help improve the website design, project descriptions, and search visibility."
+  },
+  {
+    "objectID": "analytics.html#conclusion",
+    "href": "analytics.html#conclusion",
+    "title": "Analytics",
+    "section": "Conclusion",
+    "text": "Conclusion\nUsing analytics tools can help turn website activity into useful business insights. For a professional portfolio website, this information can support better content decisions, stronger personal branding, and improved visibility to potential employers."
+  },
+  {
+    "objectID": "dashboard.html#dashboard",
+    "href": "dashboard.html#dashboard",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This dashboard presents an example of a data visualization created in R using student-teacher ratio data from my M11-2 Data Analysis Project."
+  },
+  {
+    "objectID": "dashboard.html#student-teacher-ratio-dashboard",
+    "href": "dashboard.html#student-teacher-ratio-dashboard",
+    "title": "Dashboard",
+    "section": "",
+    "text": "The chart below compares countries with the highest and lowest student-teacher ratios. This helps show differences in education systems and class-size patterns across countries."
+  },
+  {
+    "objectID": "dashboard.html#tools-and-approach",
+    "href": "dashboard.html#tools-and-approach",
+    "title": "Dashboard",
+    "section": "",
+    "text": "R and the tidyverse were used to clean and organize the dataset, allowing for easier analysis. Quarto was used to present the results and visualization in a clear and structured format."
+  },
+  {
+    "objectID": "dashboard.html#data-visualization",
+    "href": "dashboard.html#data-visualization",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This dashboard presents an example of a data visualization created in R using student-teacher ratio data from my M11-2 Data Analysis Project."
+  }
+]
